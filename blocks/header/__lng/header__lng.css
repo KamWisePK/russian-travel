@@ -1,0 +1,8 @@
+.header__lng {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 0 0 5px 0;
+  gap: 18px;
+}

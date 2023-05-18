@@ -1,0 +1,20 @@
+.header__lng-link {
+  text-decoration: none;
+  color: #fff;
+  transition: 0.3s ease-in-out;
+  padding: 0;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 400;
+}
+
+.header__lng-link:hover {
+  opacity: 0.5;
+}
+
+@media screen and (max-width: 760px) {
+  .header__lng-link {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
